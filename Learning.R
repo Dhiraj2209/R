@@ -40,3 +40,12 @@ print(ab/Ab)
 print(Ab%%ab) # modulo operator gives reminder
 print(Ab%/%ab) #integer division gives down nearest roundoff value.
 print(ab^Ab) #power
+
+val1 <- 8
+val2 <- 10
+val1 == val2 # Equal to 
+val1 != val2 # Not Equal to
+val1 < val2 #lessthan
+val1 > val2 #greaterthan
+val1 <= val2 #lessthan or equal to 
+val1 >= val2 #greaterthan or equal to
