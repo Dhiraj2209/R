@@ -50,3 +50,7 @@ val1 < val2 #lessthan
 val1 > val2 #greaterthan
 val1 <= val2 #lessthan or equal to 
 val1 >= val2 #greaterthan or equal to
+
+#Logical Operator -> AND && -> OR || -> NOT !
+# & -> Element(Vectors(Arrays)) vise And Operator , | -> Element vise Logical OR
+# if, else if, else
